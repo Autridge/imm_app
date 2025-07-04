@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505968651145",
+    "project_id": "imm-app-project",
+    "storage_bucket": "imm-app-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505968651145:android:441c612ee6b41663ba8f58",
+        "android_client_info": {
+          "package_name": "com.google.firebase.presents.imm_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA0mIXIADtwyzS48_RrJ5bkWl5wG7BGHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
