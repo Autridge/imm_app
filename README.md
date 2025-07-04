@@ -1,16 +1,17 @@
-# imm_app
+# 📦 Inventory Manager App (Flutter + Firebase)
 
-A new Flutter project.
+A simple and modern inventory management app built with Flutter and Firebase. Manage items, track quantities, and secure access with Firebase Authentication.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🔐 **Login/Sign Up** with Firebase Authentication
+- ➕ Add new inventory items with quantity
+- ✏️ Edit existing items
+- ❌ Delete items
+- 🎨 Custom UI with teal color theme
+- 📋 Inventory list with live updates
+- ☁️ Firebase integration (Auth ready, Firestore optional)
+- 🔍 (Coming soon) Filter by categories (e.g. Electronics, Office, Grocery)
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
